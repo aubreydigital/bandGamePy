@@ -1,0 +1,2 @@
+# bandGamePy
+# Simple text-based game where the object is to visit the rooms inside of a venue to collect the instruments so the band can play their show before you run into the dastardly record executive who is poised to shut the whole thing down!
